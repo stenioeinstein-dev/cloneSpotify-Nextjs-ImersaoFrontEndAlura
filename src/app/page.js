@@ -50,10 +50,10 @@ export default function Home() {
                 <a href={playlist.urlplaylist} target="_blank" key={index}>
                   <div className={styles.cards} >
                     <div className={styles.wrapper}>
-                      <Image src={playlist.urlImg} alt="test" className={styles.cover_image} />
+                      <Image src={playlist.urlImg} alt="test" width={100} height={100} className={styles.cover_image} property="true" />
                     </div>
                     <h1 className={styles.title}>{playlist.name}</h1>
-                    <Image src={playlist.urlImg} alt="character" className={styles.character} />
+                    <Image src={playlist.urlImg} alt="character" width={100} height={180}  className={styles.character} property="true" />
                   </div>
                 </a>
 

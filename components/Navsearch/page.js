@@ -2,18 +2,15 @@
 import { Btnsignin, Btnsignup } from "../Btns/Btns";
 import styles from "./page.module.css";
 
+function handleClickBack() {
+  history.back();
+}
 
+function handleClickGo() {
+  history.go(1);
+}
 
 export default function Navsearch() {
-
-
-  function handleClickBack() {
-    history.back();
-  }
-
-  function handleClickGo() {
-    history.go(1);
-  }
 
   return (
     <>
