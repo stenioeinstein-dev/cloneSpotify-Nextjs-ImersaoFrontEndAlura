@@ -8,7 +8,8 @@ The project uses an internal API to obtain data such as playlists and artists.
 Project developed during Immersion Frontend Alura
 
 To access the project click on
-``` [Project](https://spotify-nextjs-imersao-alura.vercel.app/)
+```
+#### [Project](https://spotify-nextjs-imersao-alura.vercel.app/)
 
 ##### Image in desktop format.
 
