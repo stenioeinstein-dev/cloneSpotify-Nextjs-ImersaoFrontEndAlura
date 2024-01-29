@@ -13,6 +13,13 @@ pnpm dev
 # or
 bun dev
 ```
+##### Image in desktop format.
+
+![Image desktop](img-desktop.png)
+
+##### Image in mobile format.
+
+![Image mobile](img-mobile.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
