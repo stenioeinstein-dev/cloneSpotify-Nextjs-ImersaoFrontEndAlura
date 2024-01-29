@@ -20,19 +20,19 @@ export default function Home() {
     getData();
   }, []);
 
-  const getGreeting = () => {
-    const localTime = new Date();
+  // const getGreeting = () => {
+  //   const localTime = new Date();
 
-    const hours = localTime.getHours();
+  //   const hours = localTime.getHours();
 
-    if (hours >= 6 && hours < 12) {
-      return "Bom dia";
-    } else if (hours >= 12 && hours < 18) {
-      return "Boa tarde";
-    } else {
-      return "Boa noite";
-    }
-  };
+  //   if (hours >= 6 && hours < 12) {
+  //     return "Bom dia";
+  //   } else if (hours >= 12 && hours < 18) {
+  //     return "Boa tarde";
+  //   } else {
+  //     return "Boa noite";
+  //   }
+  // };
 
   return (
     <div className={styles.content_view}>
@@ -40,7 +40,7 @@ export default function Home() {
 
       <div className={styles.view_navigation}>
         <div className={styles.playlist}>
-          <h1 id="greeting">{getGreeting()}</h1>
+          <h1 id="greeting">{/*{getGreeting()} */}Boas vindas</h1>
           <h2 className="session">Navegar por todas as seções</h2>
         </div>
         <div className={styles.content_viewn}>
