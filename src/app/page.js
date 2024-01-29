@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import Navsearch from "../../components/Navsearch/page";
 import styles from "./page.module.css";
+import Image from "next/image";
 
 const A_SECRET_API = process.env.SECRET_API;
 const URL_API = '/api/playlist'
@@ -49,10 +50,10 @@ export default function Home() {
                 <a href={playlist.urlplaylist} target="_blank" key={index}>
                   <div className={styles.cards} >
                     <div className={styles.wrapper}>
-                      <img src={playlist.urlImg} alt="test" className={styles.cover_image} />
+                      <Image src={playlist.urlImg} alt="test" className={styles.cover_image} />
                     </div>
                     <h1 className={styles.title}>{playlist.name}</h1>
-                    <img src={playlist.urlImg} alt="character" className={styles.character} />
+                    <Image src={playlist.urlImg} alt="character" className={styles.character} />
                   </div>
                 </a>
 

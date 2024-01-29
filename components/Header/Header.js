@@ -64,7 +64,7 @@ export default function Header() {
                                 <section className={styles.section_playlist}>
                                     <div className={styles.section_playlist_content}>
                                         <span className={styles.title}>Create your first playlist</span>
-                                        <span className={styles.subtitle}>It's easy, we'll help you</span>
+                                        <span className={styles.subtitle}>It&apos;s easy, we&apos;ll help you</span>
                                         <button className={styles.section_playlist_button}>
                                             <span>Create playlist</span>
                                         </button>
@@ -73,8 +73,8 @@ export default function Header() {
 
                                 <section className={styles.section_playlist}>
                                     <div className={styles.section_playlist_content}>
-                                        <span className={styles.title}>Let's find some podcasts to follow</span>
-                                        <span className={styles.subtitle}>We'll keep you updated on new episodes</span>
+                                        <span className={styles.title}>Let&apos;s find some podcasts to follow</span>
+                                        <span className={styles.subtitle}>We&apos;ll keep you updated on new episodes</span>
                                         <button className={styles.section_playlist_button}>
                                             <span>Browse podcasts</span>
                                         </button>
@@ -89,7 +89,7 @@ export default function Header() {
                                     <a href="https://www.alura.com.br/imersao-front-end">Imersão Fron-End Alura</a>
                                 </div>
                                 <div className={styles.cookies}>
-                                    <a href="https://github.com/zammyrbychyeller/">Desenvolvido por Stênio</a>
+                                    <a href="https://github.com/zammyrbychyeller/">Developed by Stênio</a>
                                 </div>
                             </div>
 
@@ -102,10 +102,6 @@ export default function Header() {
                                         </path>
                                     </svg>
                                     <span className={styles.language_selected}>English</span>
-                                    {/* <ul>
-                                        <li><a href="" className="br">portu</a></li>
-                                        <li><a href="" className="en">engli</a></li>
-                                    </ul> */}
                                 </button>
                             </div>
                         </div>
