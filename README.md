@@ -9,7 +9,7 @@ Project developed during Immersion Frontend Alura
 
 To access the project click on
 ```
-#### [Project](https://spotify-nextjs-imersao-alura.vercel.app/)
+#### [Link Project](https://spotify-nextjs-imersao-alura.vercel.app/)
 
 ##### Image in desktop format.
 
