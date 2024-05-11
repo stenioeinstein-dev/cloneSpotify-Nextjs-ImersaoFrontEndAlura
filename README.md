@@ -4,10 +4,7 @@ A ideia por trás deste projeto é desenvolver um clone do Spotify. O projeto te
 
 ```bash
 Projeto desenvolvido durante a Imersão Frontend Alura
-
-Para acessar o projeto, clique em
 ```
-#### [Link do projeto](https://spotify-nextjs-imersao-alura.vercel.app/)
 
 ##### Imagem em formato desktop.
 
