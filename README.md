@@ -1,27 +1,20 @@
-#### This is a [Next.js](https://nextjs.org/) project.
+#### Este é um projeto desenvolvido em [Next.js](https://nextjs.org/).
 
-The idea behind this project is to develop a Spotify clone. The project has an educational purpose in order to foster the skills acquired in programming/development.
-
-The project uses an internal API to obtain data such as playlists and artists.
+A ideia por trás deste projeto é desenvolver um clone do Spotify. O projeto tem uma finalidade educacional para promover as habilidades adquiridas em programação/desenvolvimento.
 
 ```bash
-Project developed during Immersion Frontend Alura
+Projeto desenvolvido durante a Imersão Frontend Alura
 
-To access the project click on
+Para acessar o projeto, clique em
 ```
-#### [Link Project](https://spotify-nextjs-imersao-alura.vercel.app/)
+#### [Link do projeto](https://spotify-nextjs-imersao-alura.vercel.app/)
 
-##### Image in desktop format.
+##### Imagem em formato desktop.
 
 ![Image desktop](img-desktop.png)
 
-##### Image in mobile format.
+##### Imagem em formato mobile.
 
 ![Image mobile](img-mobile.png)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-See the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# Spotify-Nextjs-ImersaoAlura
+# CloneSpotify-Nextjs-ImersaoFrontEndAlura
