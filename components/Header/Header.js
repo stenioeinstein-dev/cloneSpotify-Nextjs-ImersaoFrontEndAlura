@@ -89,7 +89,7 @@ export default function Header() {
                                     <a href="https://www.alura.com.br/imersao-front-end">Imersão Fron-End Alura</a>
                                 </div>
                                 <div className={styles.cookies}>
-                                    <a href="https://github.com/zammyrbychyeller/">Developed by Stênio</a>
+                                    <a href="https://github.com/stenioeinstein-dev">Developed by Stênio</a>
                                 </div>
                             </div>
 
